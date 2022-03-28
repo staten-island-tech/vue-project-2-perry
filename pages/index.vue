@@ -4,9 +4,8 @@
 
 <script>
 export default {
-  name: 'Home page',
-  head() {
-  }
+  name: 'Home page'
+  
 };
 
 </script>
