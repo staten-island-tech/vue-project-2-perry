@@ -1,14 +1,13 @@
 <template>
-  <h1>Food Blog</h1>
+  <div>
+    <h1>Blog???????</h1>
+  </div>
 </template>
 
 <script>
 export default {
-  name: 'Home page'
-  
+  name: "Index Page",
 };
 
 </script>
-
-
 
