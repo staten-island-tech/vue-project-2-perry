@@ -1,13 +1,21 @@
 <template>
   <div>
-    <h1>Blog???????</h1>
+    <h2> Main </h2>
+    <Header />
   </div>
+  
 </template>
 
 <script>
-export default {
-  name: "Index Page",
-};
+  export default {
+
+  };
 
 </script>
+
+<style scoped>
+
+</style>
+
+
 
