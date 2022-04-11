@@ -1,7 +1,7 @@
 <template>
     <div>
-        <h2>About</h2>
         <Header />
+        <h2 class = "title">List of blog</h2>
     </div>
 </template>
 
@@ -13,4 +13,9 @@
 
 <style scoped>
 
+.title {
+    font-size: 30px;
+    text-align: center;
+    margin-top: 5rem;
+};
 </style>

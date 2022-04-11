@@ -1,7 +1,7 @@
 <template>
   <div>
-    <h2> Main </h2>
     <Header />
+    <h2 class = "title"> Welcome to my blog </h2>
   </div>
   
 </template>
@@ -14,7 +14,11 @@
 </script>
 
 <style scoped>
-
+.title {
+    font-size: 30px;
+    text-align: center;
+    margin-top: 5rem;
+};
 </style>
 
 
