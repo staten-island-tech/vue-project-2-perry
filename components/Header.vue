@@ -2,8 +2,8 @@
     <header>
         <h1 class= "title">My Blog</h1>
         <nav></nav>
-        <NuxtLink to="/">here</NuxtLink>
-        <NuxtLink to="/about">there</NuxtLink>
+        <NuxtLink to="/">HomePage</NuxtLink>
+        <NuxtLink to="/about">BlogList</NuxtLink>
     </header>
 </template>
 
