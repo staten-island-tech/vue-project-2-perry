@@ -7,9 +7,16 @@
 </template>
 
 <script>
-  export default {
-
-  };
+export default {
+    data() {
+    return{
+        Blog: [],
+      }
+  },
+  async fetch() {
+    this.Blog = await this.$content('Blog').fetch()
+  }
+}
 
 </script>
 
